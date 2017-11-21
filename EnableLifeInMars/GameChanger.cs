@@ -8,5 +8,9 @@ namespace EnableLifeInMars
 {
     class GameChanger
     {
+        public GameChanger()
+        {
+            
+        }
     }
 }
