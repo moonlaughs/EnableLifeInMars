@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnableLifeInMars", "EnableLifeInMars\EnableLifeInMars.csproj", "{89E77FF7-CBA1-401D-948F-D5F047B2EF2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithGitRespository", "EnableLifeInMars\WithGitRespository.csproj", "{89E77FF7-CBA1-401D-948F-D5F047B2EF2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
