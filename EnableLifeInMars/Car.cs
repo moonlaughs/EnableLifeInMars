@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +12,7 @@ namespace EnableLifeInMars
         private string Name;
         public Car()
         {
-            
+            //ctormvdkfmvkm
         }
     }
 }
