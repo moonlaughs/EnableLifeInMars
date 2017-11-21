@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace EnableLifeInMars
 {
-    class Program
+    class Features
     {
-        static void Main(string[] args)
+        public Features()
         {
-
+            
         }
     }
 }
