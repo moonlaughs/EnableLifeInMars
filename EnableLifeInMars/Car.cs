@@ -8,6 +8,8 @@ namespace EnableLifeInMars
 {
     class Car
     {
+        private int Id;
+        private string Name;
         public Car()
         {
             
